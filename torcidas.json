@@ -1,0 +1,311 @@
+[
+	{
+		"regiao": "Sudeste",
+		"torcidas": [
+			{
+                "id": 1,
+                "nome":"Torcida Organizada Galoucura",
+                "sigla": "TOG",
+                "fundacao": "1984",
+                "time": "Atlético-MG",
+                "imagem": "tog.png",
+                "uniao": "Dedo pro Alto"
+			},
+			{
+                "id": 2,
+                "nome":"Máfia Azul",
+                "sigla": "CMA",
+                "fundacao": "1977",
+                "time": "Cruzeiro",
+                "imagem": "cma.png",
+                "uniao": "União Punho Cruzado"	
+			},
+			{
+                "id": 3,
+                "nome":"Força Jovem do Vasco",
+                "sigla": "FJV",
+                "fundacao": "1970",
+                "time": "Vasco da Gama",
+                "imagem": "fjv.png",
+                "uniao": "Dedo pro Alto"
+			},
+			{
+                "id": 4,
+                "nome":"Raça Rubro-Negra",
+                "sigla": "RRN",
+                "fundacao": "1977",
+                "time": "Flamengo",
+                "imagem": "rrn.png",
+                "uniao": "União Punho Cerrado"
+            },
+            {
+                "id": 5,
+                "nome":"Fúria Jovem do Botafogo",
+                "sigla": "FJB",
+                "fundacao": "2001",
+                "time": "Botafogo",
+                "imagem": "fjb.png",
+                "uniao": "Os de Preto"
+            },
+            {
+                "id": 6,
+                "nome":"Torcida Young Flu",
+                "sigla": "TYF",
+                "fundacao": "1970",
+                "time": "Fluminense",
+                "imagem": "rrn.png",
+                "uniao": "União Punho Colado"
+            },
+            {
+                "id": 7,
+                "nome":"Mancha Alvi-Verde",
+                "sigla": "MV",
+                "fundacao": "1983",
+                "time": "Palmeiras",
+                "imagem": "mv.png",
+                "uniao": "Dedo pro Alto"
+            },
+            {
+                "id": 8,
+                "nome":"Gaviões da Fiel",
+                "sigla": "GDF",
+                "fundacao": "1969",
+                "time": "Corinthians",
+                "imagem": "gdf.png",
+                "uniao": "Os de Preto"
+            },
+            {
+                "id": 9,
+                "nome":"Torcida Tricolor Independente",
+                "sigla": "TTI",
+                "fundacao": "1972",
+                "time": "São Paulo",
+                "imagem": "tti.png",
+                "uniao": "União Punho Cruzado"
+            },
+            {
+                "id": 10,
+                "nome":"Torcida Jovem do Santos",
+                "sigla": "TJ",
+                "fundacao": "1969",
+                "time": "Santos",
+                "imagem": "tj.png",
+                "uniao": "Somente Aliadas"
+			}
+		]
+	},
+	{
+		"regiao": "Nordeste",
+		"torcidas": [
+			{
+				"id": 11,
+                "nome":"Torcida Organizada Bamor",
+                "sigla": "TOB",
+                "fundacao": "1978",
+                "time": "Bahia",
+                "imagem": "tob.png",
+                "uniao": "União Lado A"
+			},
+			{
+				"id": 12,
+                "nome":"Torcida Uniformizada Os Imbatíveis",
+                "sigla": "TUI",
+                "fundacao": "1997",
+                "time": "Vitória",
+                "imagem": "tui.png",
+                "uniao": "União Punho Cerrado"
+			},
+			{
+				"id": 13,
+                "nome":"Torcida Organizada Inferno Coral",
+                "sigla": "TOIC",
+                "fundacao": "1992",
+                "time": "Santa Cruz",
+                "imagem": "toic.png",
+                "uniao": "União Lado A"
+			},
+			{
+				"id": 14,
+                "nome":"Torcida Jovem Sport",
+                "sigla": "TJS",
+                "fundacao": "1995",
+                "time": "Sport",
+                "imagem": "tjs.png",
+                "uniao": "União Punho Cruzado"
+			},
+			{
+				"id": 15,
+                "nome":"Torcida Organizada Cearamor",
+                "sigla": "TOC",
+                "fundacao": "1982",
+                "time": "Ceará",
+                "imagem": "toc.png",
+                "uniao": "União Lado B"
+			},
+			{
+				"id": 16,
+                "nome":"Torcida Uniformizada do Fortaleza",
+                "sigla": "TUF",
+                "fundacao": "1991",
+                "time": "Fortaleza",
+                "imagem": "tuf.png",
+                "uniao": "União Lado A"
+			},
+			{
+				"id": 17,
+                "nome":"Torcida Máfia Vermelha",
+                "sigla": "TMV",
+                "fundacao": "1991",
+                "time": "América-RN",
+                "imagem": "tmv.png",
+                "uniao": "União Lado A"
+			},
+			{
+				"id": 18,
+                "nome":"Torcida Garra Alvinegra",
+                "sigla": "TGA",
+                "fundacao": "1991",
+                "time": "ABC",
+                "imagem": "tga.png",
+                "uniao": "União Lado B"
+			},
+			{
+				"id": 19,
+                "nome":"Torcida Organizada Mancha Azul",
+                "sigla": "TOMA",
+                "fundacao": "1992",
+                "time": "CSA",
+                "imagem": "toma.png",
+                "uniao": "União Lado A"
+			},
+			{
+				"id": 20,
+                "nome":"Torcida Organizada Comando Alvi-Rubro",
+                "sigla": "TOCV",
+                "fundacao": "1993",
+                "time": "CRB",
+                "imagem": "tocv.png",
+                "uniao": "União Lado B"
+			}
+		]
+	},
+	{
+		"regiao": "Norte / Centro-Oeste",
+		"torcidas": [
+			{
+				"id": 21,
+                "nome":"Tradição Uniformizada Torcida Bicolor",
+                "sigla": "TUTB",
+                "fundacao": "1989",
+                "time": "Paysandu",
+                "imagem": "tutb.png",
+                "uniao": "União Lado B"
+			},
+			{
+				"id": 22,
+                "nome":"Torcida Organizada Remista",
+                "sigla": "TOR",
+                "fundacao": "1989",
+                "time": "Remo",
+                "imagem": "tor.png",
+                "uniao": "União Lado A"
+			},
+			{
+				"id": 23,
+                "nome":"Força Jovem Goiás",
+                "sigla": "FJG",
+                "fundacao": "1997",
+                "time": "Goiás",
+                "imagem": "fjg.png",
+                "uniao": "Dedo pro Alto"
+			},
+			{
+				"id": 24,
+                "nome":"Torcida Esquadrão Vilanovense",
+                "sigla": "TEV",
+                "fundacao": "1994",
+                "time": "VIla Nova",
+                "imagem": "tev.png",
+                "uniao": "União Punho Colado"
+			}
+		]
+	},
+	{
+		"regiao": "Sul",
+		"torcidas": [
+			{
+				"id": 25,
+                "nome":"Torcida Jovem do Grêmio",
+                "sigla": "TJG",
+                "fundacao": "1977",
+                "time": "Grêmio",
+                "imagem": "tjg.png",
+                "uniao": "Dedo pro Alto"
+			},
+			{
+				"id": 26,
+                "nome":"Geral do Grêmio",
+                "sigla": "GDG",
+                "fundacao": "2001",
+                "time": "Grêmio",
+                "imagem": "gdg.png",
+                "uniao": "Dedo pro Alto"
+			},
+			{
+				"id": 27,
+                "nome":"Torcida Organizada Camisa 12",
+                "sigla": "TOC12",
+                "fundacao": "1969",
+                "time": "Internacional",
+                "imagem": "toc12.png",
+                "uniao": "União Punho Cruzado"
+			},
+			{
+				"id": 28,
+                "nome":"Guarda Popular",
+                "sigla": "P7",
+                "fundacao": "2004",
+                "time": "Internacional",
+                "imagem": "p7.png",
+                "uniao": "União Punho Cruzado"
+			},
+			{
+				"id": 29,
+                "nome":"Torcida Organizada Império Alviverde",
+                "sigla": "IAV",
+                "fundacao": "1977",
+                "time": "Coritiba",
+                "imagem": "iav.png",
+                "uniao": "Dedo pro Alto"
+			},
+			{
+				"id": 30,
+                "nome":"Torcida Organizada Os Fanáticos",
+                "sigla": "TOF",
+                "fundacao": "1977",
+                "time": "Athletico-PR",
+                "imagem": "tof.png",
+                "uniao": "União Punho Cruzado"
+			},
+			{
+				"id": 31,
+                "nome":"Torcida Organizada Mancha Azul",
+                "sigla": "TMA",
+                "fundacao": "1995",
+                "time": "Avaí",
+                "imagem": "tma.png",
+                "uniao": "Dedo pro Alto"
+			},
+			{
+				"id": 32,
+                "nome":"Torcida Organizada Gaviões Alvinegros",
+                "sigla": "TOGA",
+                "fundacao": "1991",
+                "time": "Figueirense",
+                "imagem": "toga.png",
+                "uniao": "Os de Preto"
+			}
+			
+		]
+	}
+]
