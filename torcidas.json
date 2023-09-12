@@ -9,7 +9,8 @@
                 "fundacao": "1984",
                 "time": "Atlético-MG",
                 "imagem": "tog.svg",
-                "uniao": "Dedo pro Alto"
+                "uniao": "Dedo pro Alto",
+		"cor": "Branco"
 			},
 			{
                 "id": 2,
@@ -18,7 +19,8 @@
                 "fundacao": "1977",
                 "time": "Cruzeiro",
                 "imagem": "cma.svg",
-                "uniao": "União Punho Cruzado"	
+                "uniao": "União Punho Cruzado",
+		"cor": "Branco"
 			},
 			{
                 "id": 3,
@@ -27,7 +29,8 @@
                 "fundacao": "1970",
                 "time": "Vasco da Gama",
                 "imagem": "fjv.svg",
-                "uniao": "Dedo pro Alto"
+                "uniao": "Dedo pro Alto",
+		"cor": "Branco"
 			},
 			{
                 "id": 4,
@@ -36,7 +39,8 @@
                 "fundacao": "1977",
                 "time": "Flamengo",
                 "imagem": "rrn.svg",
-                "uniao": "Punho Cerrado"
+                "uniao": "Punho Cerrado",
+		"cor": "Vermelho"
             },
             {
                 "id": 5,
@@ -45,7 +49,8 @@
                 "fundacao": "2001",
                 "time": "Botafogo",
                 "imagem": "fjb.svg",
-                "uniao": "Os de Preto"
+                "uniao": "Os de Preto",
+		"cor": "Preto"
             },
             {
                 "id": 6,
@@ -54,7 +59,8 @@
                 "fundacao": "1970",
                 "time": "Fluminense",
                 "imagem": "tyf.svg",
-                "uniao": "União Punho Colado"
+                "uniao": "União Punho Colado",
+		"cor": "Branco"
             },
             {
                 "id": 7,
@@ -63,7 +69,8 @@
                 "fundacao": "1983",
                 "time": "Palmeiras",
                 "imagem": "mv.svg",
-                "uniao": "Dedo pro Alto"
+                "uniao": "Dedo pro Alto",
+		"cor": "Branco"
             },
             {
                 "id": 8,
@@ -72,7 +79,8 @@
                 "fundacao": "1969",
                 "time": "Corinthians",
                 "imagem": "gdf.svg",
-                "uniao": "Os de Preto"
+                "uniao": "Os de Preto",
+		"cor": "Preto"
             },
             {
                 "id": 9,
@@ -81,7 +89,8 @@
                 "fundacao": "1972",
                 "time": "São Paulo",
                 "imagem": "tti.svg",
-                "uniao": "União Punho Cruzado"
+                "uniao": "União Punho Cruzado",
+		"cor": "Branco"
             },
             {
                 "id": 10,
@@ -90,7 +99,8 @@
                 "fundacao": "1969",
                 "time": "Santos",
                 "imagem": "tj.svg",
-                "uniao": "Somente Aliadas"
+                "uniao": "Somente Aliadas",
+		"cor": "Branco"
 			}
 		]
 	},
@@ -104,7 +114,8 @@
                 "fundacao": "1978",
                 "time": "Bahia",
                 "imagem": "tob.svg",
-                "uniao": "União Lado A"
+                "uniao": "União Lado A",
+		"cor": "Branco"
 			},
 			{
 				"id": 12,
@@ -113,7 +124,8 @@
                 "fundacao": "1997",
                 "time": "Vitória",
                 "imagem": "tui.svg",
-                "uniao": "Punho Cerrado"
+                "uniao": "Punho Cerrado",
+		"cor": "Branco"
 			},
 			{
 				"id": 13,
@@ -122,7 +134,8 @@
                 "fundacao": "1992",
                 "time": "Santa Cruz",
                 "imagem": "toic.svg",
-                "uniao": "União Lado A"
+                "uniao": "União Lado A",
+		"cor": "Branco"
 			},
 			{
 				"id": 14,
@@ -131,7 +144,8 @@
                 "fundacao": "1995",
                 "time": "Sport",
                 "imagem": "tjs.svg",
-                "uniao": "União Punho Cruzado"
+                "uniao": "União Punho Cruzado",
+		"cor": "Amarelo"
 			},
 			{
 				"id": 15,
@@ -140,7 +154,8 @@
                 "fundacao": "1982",
                 "time": "Ceará",
                 "imagem": "toc.svg",
-                "uniao": "União Lado B"
+                "uniao": "União Lado B",
+		"cor": "Preto"
 			},
 			{
 				"id": 16,
@@ -149,7 +164,8 @@
                 "fundacao": "1991",
                 "time": "Fortaleza",
                 "imagem": "tuf.svg",
-                "uniao": "União Lado A"
+                "uniao": "União Lado A",
+		"cor": "Branco"
 			},
 			{
 				"id": 17,
@@ -158,7 +174,8 @@
                 "fundacao": "1991",
                 "time": "América-RN",
                 "imagem": "tmv.svg",
-                "uniao": "União Lado A"
+                "uniao": "União Lado A",
+		"cor": "Vermelho"
 			},
 			{
 				"id": 18,
@@ -167,7 +184,8 @@
                 "fundacao": "1991",
                 "time": "ABC",
                 "imagem": "tga.svg",
-                "uniao": "União Lado B"
+                "uniao": "União Lado B",
+		"cor": "Branco"
 			},
 			{
 				"id": 19,
@@ -176,7 +194,8 @@
                 "fundacao": "1992",
                 "time": "CSA",
                 "imagem": "toma.svg",
-                "uniao": "União Lado A"
+                "uniao": "União Lado A",
+		"cor": "Branco"
 			},
 			{
 				"id": 20,
@@ -185,7 +204,8 @@
                 "fundacao": "1993",
                 "time": "CRB",
                 "imagem": "tocv.svg",
-                "uniao": "União Lado B"
+                "uniao": "União Lado B",
+		"cor": "Branco"
 			}
 		]
 	},
@@ -199,7 +219,8 @@
                 "fundacao": "1989",
                 "time": "Paysandu",
                 "imagem": "tutb.svg",
-                "uniao": "União Lado B"
+                "uniao": "União Lado B",
+		"cor": "Branco"
 			},
 			{
 				"id": 22,
@@ -208,7 +229,8 @@
                 "fundacao": "1989",
                 "time": "Remo",
                 "imagem": "tor.svg",
-                "uniao": "União Lado A"
+                "uniao": "União Lado A",
+		"cor": "Azul Escuro"
 			},
 			{
 				"id": 23,
@@ -217,7 +239,8 @@
                 "fundacao": "1997",
                 "time": "Goiás",
                 "imagem": "fjg.svg",
-                "uniao": "Dedo pro Alto"
+                "uniao": "Dedo pro Alto",
+		"cor": "Branco"
 			},
 			{
 				"id": 24,
@@ -226,7 +249,8 @@
                 "fundacao": "1994",
                 "time": "VIla Nova",
                 "imagem": "tev.svg",
-                "uniao": "União Punho Colado"
+                "uniao": "União Punho Colado",
+		"cor": "Branco"
 			}
 		]
 	},
@@ -240,7 +264,8 @@
                 "fundacao": "1977",
                 "time": "Grêmio",
                 "imagem": "tjg.svg",
-                "uniao": "Dedo pro Alto"
+                "uniao": "Dedo pro Alto",
+		"cor": "Branco"
 			},
 			{
 				"id": 26,
@@ -249,7 +274,8 @@
                 "fundacao": "2001",
                 "time": "Grêmio",
                 "imagem": "gdg.svg",
-                "uniao": "Dedo pro Alto"
+                "uniao": "Dedo pro Alto",
+		"cor": "Tricolor"
 			},
 			{
 				"id": 27,
@@ -258,7 +284,8 @@
                 "fundacao": "1969",
                 "time": "Internacional",
                 "imagem": "toc12.svg",
-                "uniao": "União Punho Cruzado"
+                "uniao": "União Punho Cruzado",
+		"cor": "Branco"
 			},
 			{
 				"id": 28,
@@ -267,7 +294,8 @@
                 "fundacao": "2004",
                 "time": "Internacional",
                 "imagem": "p7.svg",
-                "uniao": "União Punho Cruzado"
+                "uniao": "União Punho Cruzado",
+		"cor": "Vermelho e Branco"
 			},
 			{
 				"id": 29,
@@ -276,7 +304,8 @@
                 "fundacao": "1977",
                 "time": "Coritiba",
                 "imagem": "iav.svg",
-                "uniao": "Dedo pro Alto"
+                "uniao": "Dedo pro Alto",
+		"cor": "Verde"
 			},
 			{
 				"id": 30,
@@ -285,7 +314,8 @@
                 "fundacao": "1977",
                 "time": "Athletico-PR",
                 "imagem": "tof.svg",
-                "uniao": "Punho Cerrado"
+                "uniao": "Punho Cerrado",
+		"cor": "Vermelho e preto"
 			},
 			{
 				"id": 31,
@@ -294,7 +324,8 @@
                 "fundacao": "1995",
                 "time": "Avaí",
                 "imagem": "tma.svg",
-                "uniao": "Dedo pro Alto"
+                "uniao": "Dedo pro Alto",
+		"cor": "Branco"
 			},
 			{
 				"id": 32,
@@ -303,7 +334,8 @@
                 "fundacao": "1991",
                 "time": "Figueirense",
                 "imagem": "toga.svg",
-                "uniao": "Punho Cerrado"
+                "uniao": "Punho Cerrado",
+		"cor": "Preto"
 			}
 			
 		]
