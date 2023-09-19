@@ -247,9 +247,9 @@
                 "nome":"Torcida Esquadrão Vilanovense",
                 "sigla": "TEV",
                 "fundacao": "1994",
-                "time": "VIla Nova",
+                "time": "Vila Nova",
                 "imagem": "tev.svg",
-                "uniao": "União Punho Colado",
+                "uniao": "Somente Aliadas",
 		"cor": "Branco"
 			}
 		]
@@ -314,7 +314,7 @@
                 "fundacao": "1977",
                 "time": "Athletico-PR",
                 "imagem": "tof.svg",
-                "uniao": "Punho Cerrado",
+                "uniao": "Somente Aliadas",
 		"cor": "Vermelho e preto"
 			},
 			{
@@ -334,7 +334,7 @@
                 "fundacao": "1991",
                 "time": "Figueirense",
                 "imagem": "toga.svg",
-                "uniao": "Punho Cerrado",
+                "uniao": "Somente Aliadas",
 		"cor": "Preto"
 			}
 			
